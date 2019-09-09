@@ -1,0 +1,813 @@
+<?xml version='1.0' encoding='utf-8'?>
+<NAF xml:lang="nl" version="v3.naf">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Zuid-Afrikaans apartheidsreferendum 1992"/>
+    <public uri="https://nl.wikipedia.org/wiki/Zuid-Afrikaans_apartheidsreferendum_1992"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2019-09-06T19:04:20UTC" endTimestamp="2019-09-06T19:04:20UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2019-09-06T19:04:20UTC" endTimestamp="2019-09-06T19:04:20UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2019-09-06T19:04:20UTC" endTimestamp="2019-09-06T19:04:20UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw>++Zuid-Afrikaans apartheidsreferendum 1992++.
+Op 17 maart 1992 hield Zuid-Afrika een referendum over het al dan niet beëindigen van de apartheid. Enkel blanke Zuid-Afrikanen mochten stemmen zodat de regering een goed beeld kreeg over hoe de blanke bevolking achter de apartheid stond. Op de stembrief werd gevraagd of men het voorzetten van het hervormingsproces onder leiding van F.W De Klerk ondersteunt die in 1990 begonnen waren. Hiermee stond het apartheidssysteem dat in 1948 werd ingevoerd op de helling. Uiteindelijk resulteerde het referendum in een klinkende overwinning voor het ja-kamp waardoor de apartheid werd afgeschaft en er in 1994 voor het eerst democratische verkiezingen werden gehouden.</raw>
+  <text>
+    <wf sent="1" id="w0" length="1" offset="0">+</wf>
+    <wf sent="1" id="w1" length="1" offset="1">+</wf>
+    <wf sent="1" id="w2" length="4" offset="2">Zuid</wf>
+    <wf sent="1" id="w3" length="1" offset="6">-</wf>
+    <wf sent="1" id="w4" length="9" offset="7">Afrikaans</wf>
+    <wf sent="1" id="w5" length="20" offset="17">apartheidsreferendum</wf>
+    <wf sent="1" id="w6" length="6" offset="38">1992++</wf>
+    <wf sent="1" id="w7" length="1" offset="44">.</wf>
+    <wf sent="1" id="w8" length="1" offset="45">
+</wf>
+    <wf sent="2" id="w9" length="2" offset="46">Op</wf>
+    <wf sent="2" id="w10" length="2" offset="49">17</wf>
+    <wf sent="2" id="w11" length="5" offset="52">maart</wf>
+    <wf sent="2" id="w12" length="4" offset="58">1992</wf>
+    <wf sent="2" id="w13" length="5" offset="63">hield</wf>
+    <wf sent="2" id="w14" length="4" offset="69">Zuid</wf>
+    <wf sent="2" id="w15" length="1" offset="73">-</wf>
+    <wf sent="2" id="w16" length="6" offset="74">Afrika</wf>
+    <wf sent="2" id="w17" length="3" offset="81">een</wf>
+    <wf sent="2" id="w18" length="10" offset="85">referendum</wf>
+    <wf sent="2" id="w19" length="4" offset="96">over</wf>
+    <wf sent="2" id="w20" length="3" offset="101">het</wf>
+    <wf sent="2" id="w21" length="2" offset="105">al</wf>
+    <wf sent="2" id="w22" length="3" offset="108">dan</wf>
+    <wf sent="2" id="w23" length="4" offset="112">niet</wf>
+    <wf sent="2" id="w24" length="10" offset="117">beëindigen</wf>
+    <wf sent="2" id="w25" length="3" offset="128">van</wf>
+    <wf sent="2" id="w26" length="2" offset="132">de</wf>
+    <wf sent="2" id="w27" length="9" offset="135">apartheid</wf>
+    <wf sent="2" id="w28" length="1" offset="144">.</wf>
+    <wf sent="3" id="w29" length="5" offset="146">Enkel</wf>
+    <wf sent="3" id="w30" length="6" offset="152">blanke</wf>
+    <wf sent="3" id="w31" length="4" offset="159">Zuid</wf>
+    <wf sent="3" id="w32" length="1" offset="163">-</wf>
+    <wf sent="3" id="w33" length="9" offset="164">Afrikanen</wf>
+    <wf sent="3" id="w34" length="7" offset="174">mochten</wf>
+    <wf sent="3" id="w35" length="7" offset="182">stemmen</wf>
+    <wf sent="3" id="w36" length="5" offset="190">zodat</wf>
+    <wf sent="3" id="w37" length="2" offset="196">de</wf>
+    <wf sent="3" id="w38" length="8" offset="199">regering</wf>
+    <wf sent="3" id="w39" length="3" offset="208">een</wf>
+    <wf sent="3" id="w40" length="4" offset="212">goed</wf>
+    <wf sent="3" id="w41" length="5" offset="217">beeld</wf>
+    <wf sent="3" id="w42" length="5" offset="223">kreeg</wf>
+    <wf sent="3" id="w43" length="4" offset="229">over</wf>
+    <wf sent="3" id="w44" length="3" offset="234">hoe</wf>
+    <wf sent="3" id="w45" length="2" offset="238">de</wf>
+    <wf sent="3" id="w46" length="6" offset="241">blanke</wf>
+    <wf sent="3" id="w47" length="9" offset="248">bevolking</wf>
+    <wf sent="3" id="w48" length="6" offset="258">achter</wf>
+    <wf sent="3" id="w49" length="2" offset="265">de</wf>
+    <wf sent="3" id="w50" length="9" offset="268">apartheid</wf>
+    <wf sent="3" id="w51" length="5" offset="278">stond</wf>
+    <wf sent="3" id="w52" length="1" offset="283">.</wf>
+    <wf sent="4" id="w53" length="2" offset="285">Op</wf>
+    <wf sent="4" id="w54" length="2" offset="288">de</wf>
+    <wf sent="4" id="w55" length="9" offset="291">stembrief</wf>
+    <wf sent="4" id="w56" length="4" offset="301">werd</wf>
+    <wf sent="4" id="w57" length="8" offset="306">gevraagd</wf>
+    <wf sent="4" id="w58" length="2" offset="315">of</wf>
+    <wf sent="4" id="w59" length="3" offset="318">men</wf>
+    <wf sent="4" id="w60" length="3" offset="322">het</wf>
+    <wf sent="4" id="w61" length="10" offset="326">voorzetten</wf>
+    <wf sent="4" id="w62" length="3" offset="337">van</wf>
+    <wf sent="4" id="w63" length="3" offset="341">het</wf>
+    <wf sent="4" id="w64" length="17" offset="345">hervormingsproces</wf>
+    <wf sent="4" id="w65" length="5" offset="363">onder</wf>
+    <wf sent="4" id="w66" length="7" offset="369">leiding</wf>
+    <wf sent="4" id="w67" length="3" offset="377">van</wf>
+    <wf sent="4" id="w68" length="3" offset="381">F.W</wf>
+    <wf sent="4" id="w69" length="2" offset="385">De</wf>
+    <wf sent="4" id="w70" length="5" offset="388">Klerk</wf>
+    <wf sent="4" id="w71" length="11" offset="394">ondersteunt</wf>
+    <wf sent="4" id="w72" length="3" offset="406">die</wf>
+    <wf sent="4" id="w73" length="2" offset="410">in</wf>
+    <wf sent="4" id="w74" length="4" offset="413">1990</wf>
+    <wf sent="4" id="w75" length="8" offset="418">begonnen</wf>
+    <wf sent="4" id="w76" length="5" offset="427">waren</wf>
+    <wf sent="4" id="w77" length="1" offset="432">.</wf>
+    <wf sent="5" id="w78" length="7" offset="434">Hiermee</wf>
+    <wf sent="5" id="w79" length="5" offset="442">stond</wf>
+    <wf sent="5" id="w80" length="3" offset="448">het</wf>
+    <wf sent="5" id="w81" length="17" offset="452">apartheidssysteem</wf>
+    <wf sent="5" id="w82" length="3" offset="470">dat</wf>
+    <wf sent="5" id="w83" length="2" offset="474">in</wf>
+    <wf sent="5" id="w84" length="4" offset="477">1948</wf>
+    <wf sent="5" id="w85" length="4" offset="482">werd</wf>
+    <wf sent="5" id="w86" length="9" offset="487">ingevoerd</wf>
+    <wf sent="5" id="w87" length="2" offset="497">op</wf>
+    <wf sent="5" id="w88" length="2" offset="500">de</wf>
+    <wf sent="5" id="w89" length="7" offset="503">helling</wf>
+    <wf sent="5" id="w90" length="1" offset="510">.</wf>
+    <wf sent="6" id="w91" length="12" offset="512">Uiteindelijk</wf>
+    <wf sent="6" id="w92" length="11" offset="525">resulteerde</wf>
+    <wf sent="6" id="w93" length="3" offset="537">het</wf>
+    <wf sent="6" id="w94" length="10" offset="541">referendum</wf>
+    <wf sent="6" id="w95" length="2" offset="552">in</wf>
+    <wf sent="6" id="w96" length="3" offset="555">een</wf>
+    <wf sent="6" id="w97" length="9" offset="559">klinkende</wf>
+    <wf sent="6" id="w98" length="11" offset="569">overwinning</wf>
+    <wf sent="6" id="w99" length="4" offset="581">voor</wf>
+    <wf sent="6" id="w100" length="3" offset="586">het</wf>
+    <wf sent="6" id="w101" length="2" offset="590">ja</wf>
+    <wf sent="6" id="w102" length="1" offset="592">-</wf>
+    <wf sent="6" id="w103" length="4" offset="593">kamp</wf>
+    <wf sent="6" id="w104" length="8" offset="598">waardoor</wf>
+    <wf sent="6" id="w105" length="2" offset="607">de</wf>
+    <wf sent="6" id="w106" length="9" offset="610">apartheid</wf>
+    <wf sent="6" id="w107" length="4" offset="620">werd</wf>
+    <wf sent="6" id="w108" length="10" offset="625">afgeschaft</wf>
+    <wf sent="6" id="w109" length="2" offset="636">en</wf>
+    <wf sent="6" id="w110" length="2" offset="639">er</wf>
+    <wf sent="6" id="w111" length="2" offset="642">in</wf>
+    <wf sent="6" id="w112" length="4" offset="645">1994</wf>
+    <wf sent="6" id="w113" length="4" offset="650">voor</wf>
+    <wf sent="6" id="w114" length="3" offset="655">het</wf>
+    <wf sent="6" id="w115" length="5" offset="659">eerst</wf>
+    <wf sent="6" id="w116" length="13" offset="665">democratische</wf>
+    <wf sent="6" id="w117" length="12" offset="679">verkiezingen</wf>
+    <wf sent="6" id="w118" length="6" offset="692">werden</wf>
+    <wf sent="6" id="w119" length="8" offset="699">gehouden</wf>
+    <wf sent="6" id="w120" length="1" offset="707">.</wf>
+  </text>
+  <terms>
+    <term id="t0" lemma="+" pos="ADJ" morphofeat="Adj|attr|stell|onverv__Degree=Pos">
+      <span>
+        <target id="w0"/>
+      </span>
+    </term>
+    <term id="t1" lemma="+" pos="NOUN" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="zuid" pos="NOUN" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="-" pos="PUNCT" morphofeat="Punc|liggstreep___">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="afrikaans" pos="PROPN" morphofeat="PROPN___">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="apartheidsreferendum" pos="VERB" morphofeat="V|hulpofkopp|ott|1of2of3|mv__Aspect=Imp|Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="1992++" pos="NUM" morphofeat="Num|hoofd|bep|zelfst|onverv__Definite=Def|NumType=Card">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="." pos="PUNCT" morphofeat="Punc|punt__PunctType=Peri">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="&#10;" pos="SPACE" morphofeat="_SP">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="op" pos="ADP" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="17" pos="NUM" morphofeat="Num_N_Num__NumForm=Digit|NumType=Card">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="maart" pos="NUM" morphofeat="NUM__Definite=Def|Number=Sing|NumType=Card">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="1992" pos="NUM" morphofeat="NUM__NumForm=Digit|NumType=Card">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="houden" pos="VERB" morphofeat="V|trans|ovt|1of2of3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Subcat=Tran|Tense=Past|VerbForm=Fin">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="zuid" pos="NOUN" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="-" pos="PUNCT" morphofeat="Punc|liggstreep___">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="afrika" pos="NOUN" morphofeat="N|eigen|ev|neut__Number=Sing">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="een" pos="DET" morphofeat="Art|onbep|zijdofonzijd|neut__Definite=Ind|Number=Sing|PronType=Art">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="referendum" pos="NOUN" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="over" pos="ADP" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="het" pos="DET" morphofeat="Art|bep|onzijd|neut__Definite=Def|Gender=Neut|PronType=Art">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="al" pos="ADV" morphofeat="Adv|gew|geenfunc|stell|onverv__Degree=Pos">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="dan" pos="X" morphofeat="X__Degree=Pos">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="niet" pos="ADV" morphofeat="Adv|gew|geenfunc|stell|onverv__Degree=Pos">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="beëindig" pos="NOUN" morphofeat="N|soort|mv|neut__Number=Plur">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="van" pos="ADP" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="de" pos="DET" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="apartheid" pos="NOUN" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="." pos="PUNCT" morphofeat="Punc|punt__PunctType=Peri">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="enkel" pos="PRON" morphofeat="Pron|onbep|neut|attr__PronType=Ind">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="blank" pos="ADJ" morphofeat="Adj|attr|stell|vervneut__Case=Nom|Degree=Pos">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="zuid" pos="NOUN" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="-" pos="PUNCT" morphofeat="Punc|liggstreep___">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="afrikaan" pos="NOUN" morphofeat="N|soort|mv|neut__Number=Plur">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="mogen" pos="VERB" morphofeat="V|hulp|ovt|1of2of3|mv__Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|VerbType=Mod">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="stemmen" pos="VERB" morphofeat="V|trans|inf__Subcat=Tran|VerbForm=Inf">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="zodat" pos="CONJ" morphofeat="Conj|onder|metfin___">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="de" pos="DET" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="regering" pos="NOUN" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="een" pos="DET" morphofeat="Art|onbep|zijdofonzijd|neut__Definite=Ind|Number=Sing|PronType=Art">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="goed" pos="ADJ" morphofeat="Adj|attr|stell|onverv__Degree=Pos">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="beeld" pos="NOUN" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="krijgen" pos="VERB" morphofeat="V|trans|ovt|1of2of3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Subcat=Tran|Tense=Past|VerbForm=Fin">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="over" pos="ADP" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="hoe" pos="ADV" morphofeat="Adv|gew|betr__PronType=Rel">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="de" pos="DET" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="blank" pos="ADJ" morphofeat="Adj|attr|stell|vervneut__Case=Nom|Degree=Pos">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="bevolking" pos="NOUN" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="achter" pos="ADP" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="de" pos="DET" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="apartheid" pos="NOUN" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="staan" pos="VERB" morphofeat="V|intrans|ovt|1of2of3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Subcat=Intr|Tense=Past|VerbForm=Fin">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="." pos="PUNCT" morphofeat="Punc|punt__PunctType=Peri">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="op" pos="ADP" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="de" pos="DET" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="stembrief" pos="NOUN" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="worden" pos="VERB" morphofeat="V|hulpofkopp|ovt|1of2of3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="vragen" pos="VERB" morphofeat="V|trans|verldw|onverv__Subcat=Tran|Tense=Past|VerbForm=Part">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="of" pos="CONJ" morphofeat="Conj|onder|metfin___">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="men" pos="PRON" morphofeat="Pron|onbep|neut|zelfst__PronType=Ind">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="het" pos="DET" morphofeat="Art|bep|onzijd|neut__Definite=Def|Gender=Neut|PronType=Art">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="voorzetten" pos="VERB" morphofeat="V|trans|inf|subst__Subcat=Tran|VerbForm=Inf">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="van" pos="ADP" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="het" pos="DET" morphofeat="Art|bep|onzijd|neut__Definite=Def|Gender=Neut|PronType=Art">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="hervormingsproce" pos="NOUN" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="onder" pos="ADP" morphofeat="Prep_N_Prep|voor_soort|ev|neut_voor__Number=Sing">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="leiding" pos="X" morphofeat="X__Number=Sing">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="van" pos="X" morphofeat="X__Number=Sing">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="f.w" pos="NOUN" morphofeat="N_N_N___">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="de" pos="ADP" morphofeat="ADP__AdpType=Prep">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="klerk" pos="PROPN" morphofeat="PROPN___">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="ondersteunen" pos="VERB" morphofeat="V|trans|ott|3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Subcat=Tran|Tense=Pres|VerbForm=Fin">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="die" pos="PRON" morphofeat="Pron|betr|neut|zelfst__PronType=Rel">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="in" pos="ADP" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="1990" pos="NUM" morphofeat="Num|hoofd|bep|zelfst|onverv__Definite=Def|NumType=Card">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="beginnen" pos="VERB" morphofeat="V|intrans|verldw|onverv__Subcat=Intr|Tense=Past|VerbForm=Part">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="zijn" pos="VERB" morphofeat="V|hulpofkopp|ovt|1of2of3|mv__Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="." pos="PUNCT" morphofeat="Punc|punt__PunctType=Peri">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+    <term id="t78" lemma="hiermee" pos="ADV" morphofeat="Adv|pron|aanw__PronType=Dem">
+      <span>
+        <target id="w78"/>
+      </span>
+    </term>
+    <term id="t79" lemma="staan" pos="VERB" morphofeat="V|intrans|ovt|1of2of3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Subcat=Intr|Tense=Past|VerbForm=Fin">
+      <span>
+        <target id="w79"/>
+      </span>
+    </term>
+    <term id="t80" lemma="het" pos="DET" morphofeat="Art|bep|onzijd|neut__Definite=Def|Gender=Neut|PronType=Art">
+      <span>
+        <target id="w80"/>
+      </span>
+    </term>
+    <term id="t81" lemma="apartheidssysteem" pos="NOUN" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w81"/>
+      </span>
+    </term>
+    <term id="t82" lemma="dat" pos="PRON" morphofeat="Pron|betr|neut|zelfst__PronType=Rel">
+      <span>
+        <target id="w82"/>
+      </span>
+    </term>
+    <term id="t83" lemma="in" pos="ADP" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w83"/>
+      </span>
+    </term>
+    <term id="t84" lemma="1948" pos="NUM" morphofeat="Num|hoofd|bep|zelfst|onverv__Definite=Def|NumType=Card">
+      <span>
+        <target id="w84"/>
+      </span>
+    </term>
+    <term id="t85" lemma="worden" pos="VERB" morphofeat="V|hulpofkopp|ovt|1of2of3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin">
+      <span>
+        <target id="w85"/>
+      </span>
+    </term>
+    <term id="t86" lemma="invoeren" pos="VERB" morphofeat="V|trans|verldw|onverv__Subcat=Tran|Tense=Past|VerbForm=Part">
+      <span>
+        <target id="w86"/>
+      </span>
+    </term>
+    <term id="t87" lemma="op" pos="ADP" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w87"/>
+      </span>
+    </term>
+    <term id="t88" lemma="de" pos="DET" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+      <span>
+        <target id="w88"/>
+      </span>
+    </term>
+    <term id="t89" lemma="helling" pos="NOUN" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w89"/>
+      </span>
+    </term>
+    <term id="t90" lemma="." pos="PUNCT" morphofeat="Punc|punt__PunctType=Peri">
+      <span>
+        <target id="w90"/>
+      </span>
+    </term>
+    <term id="t91" lemma="uiteindelijk" pos="ADJ" morphofeat="Adj|adv|stell|onverv__Degree=Pos|Variant=Short">
+      <span>
+        <target id="w91"/>
+      </span>
+    </term>
+    <term id="t92" lemma="resulteren" pos="VERB" morphofeat="V|intrans|ovt|1of2of3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Subcat=Intr|Tense=Past|VerbForm=Fin">
+      <span>
+        <target id="w92"/>
+      </span>
+    </term>
+    <term id="t93" lemma="het" pos="DET" morphofeat="Art|bep|onzijd|neut__Definite=Def|Gender=Neut|PronType=Art">
+      <span>
+        <target id="w93"/>
+      </span>
+    </term>
+    <term id="t94" lemma="referendum" pos="NOUN" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w94"/>
+      </span>
+    </term>
+    <term id="t95" lemma="in" pos="ADP" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w95"/>
+      </span>
+    </term>
+    <term id="t96" lemma="een" pos="DET" morphofeat="Art|onbep|zijdofonzijd|neut__Definite=Ind|Number=Sing|PronType=Art">
+      <span>
+        <target id="w96"/>
+      </span>
+    </term>
+    <term id="t97" lemma="klinken" pos="VERB" morphofeat="V|intrans|tegdw|vervneut__Case=Nom|Subcat=Intr|Tense=Pres|VerbForm=Part">
+      <span>
+        <target id="w97"/>
+      </span>
+    </term>
+    <term id="t98" lemma="overwinning" pos="NOUN" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w98"/>
+      </span>
+    </term>
+    <term id="t99" lemma="voor" pos="ADP" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w99"/>
+      </span>
+    </term>
+    <term id="t100" lemma="het" pos="DET" morphofeat="Art|bep|onzijd|neut__Definite=Def|Gender=Neut|PronType=Art">
+      <span>
+        <target id="w100"/>
+      </span>
+    </term>
+    <term id="t101" lemma="ja" pos="X" morphofeat="Int___">
+      <span>
+        <target id="w101"/>
+      </span>
+    </term>
+    <term id="t102" lemma="-" pos="PUNCT" morphofeat="Punc|liggstreep___">
+      <span>
+        <target id="w102"/>
+      </span>
+    </term>
+    <term id="t103" lemma="kamp" pos="NOUN" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w103"/>
+      </span>
+    </term>
+    <term id="t104" lemma="waardoor" pos="ADV" morphofeat="Adv|pron|vrag__PronType=Int">
+      <span>
+        <target id="w104"/>
+      </span>
+    </term>
+    <term id="t105" lemma="de" pos="DET" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+      <span>
+        <target id="w105"/>
+      </span>
+    </term>
+    <term id="t106" lemma="apartheid" pos="NOUN" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w106"/>
+      </span>
+    </term>
+    <term id="t107" lemma="worden" pos="VERB" morphofeat="V|hulpofkopp|ovt|1of2of3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin">
+      <span>
+        <target id="w107"/>
+      </span>
+    </term>
+    <term id="t108" lemma="afschaffen" pos="VERB" morphofeat="V|trans|verldw|onverv__Subcat=Tran|Tense=Past|VerbForm=Part">
+      <span>
+        <target id="w108"/>
+      </span>
+    </term>
+    <term id="t109" lemma="en" pos="CONJ" morphofeat="Conj|neven___">
+      <span>
+        <target id="w109"/>
+      </span>
+    </term>
+    <term id="t110" lemma="er" pos="ADV" morphofeat="Adv|pron|er__AdvType=Ex">
+      <span>
+        <target id="w110"/>
+      </span>
+    </term>
+    <term id="t111" lemma="in" pos="ADP" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w111"/>
+      </span>
+    </term>
+    <term id="t112" lemma="1994" pos="NUM" morphofeat="Num|hoofd|bep|zelfst|onverv__Definite=Def|NumType=Card">
+      <span>
+        <target id="w112"/>
+      </span>
+    </term>
+    <term id="t113" lemma="voor" pos="ADP" morphofeat="Prep_Art_Adj__Degree=Cmp|Gender=Neut">
+      <span>
+        <target id="w113"/>
+      </span>
+    </term>
+    <term id="t114" lemma="het" pos="X" morphofeat="X__Degree=Cmp|Gender=Neut">
+      <span>
+        <target id="w114"/>
+      </span>
+    </term>
+    <term id="t115" lemma="eerst" pos="X" morphofeat="X__Degree=Cmp|Gender=Neut">
+      <span>
+        <target id="w115"/>
+      </span>
+    </term>
+    <term id="t116" lemma="democratisch" pos="ADJ" morphofeat="Adj|attr|stell|vervneut__Case=Nom|Degree=Pos">
+      <span>
+        <target id="w116"/>
+      </span>
+    </term>
+    <term id="t117" lemma="verkiezing" pos="NOUN" morphofeat="N|soort|mv|neut__Number=Plur">
+      <span>
+        <target id="w117"/>
+      </span>
+    </term>
+    <term id="t118" lemma="worden" pos="VERB" morphofeat="V|hulpofkopp|ovt|1of2of3|mv__Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin">
+      <span>
+        <target id="w118"/>
+      </span>
+    </term>
+    <term id="t119" lemma="houden" pos="VERB" morphofeat="V|trans|verldw|onverv__Subcat=Tran|Tense=Past|VerbForm=Part">
+      <span>
+        <target id="w119"/>
+      </span>
+    </term>
+    <term id="t120" lemma="." pos="PUNCT" morphofeat="Punc|punt__PunctType=Peri">
+      <span>
+        <target id="w120"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="e1" type="UNK">
+      <references>
+        <span>
+          <!--Z u i d - A f r i k a-->
+          <target id="t14"/>
+          <target id="t15"/>
+          <target id="t16"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Zuid-Afrika"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <references>
+        <span>
+          <!--r e f e r e n d u m-->
+          <target id="t18"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Volksraadpleging"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <references>
+        <span>
+          <!--a p a r t h e i d-->
+          <target id="t27"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Apartheid"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <references>
+        <span>
+          <!--b l a n k e   Z u i d - A f r i k a n e n-->
+          <target id="t30"/>
+          <target id="t31"/>
+          <target id="t32"/>
+          <target id="t33"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Blanke_Zuid-Afrikanen"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <references>
+        <span>
+          <!--F . W   D e   K l e r k-->
+          <target id="t68"/>
+          <target id="t69"/>
+          <target id="t70"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Frederik_Willem_de_Klerk"/>
+      </externalReferences>
+    </entity>
+  </entities>
+</NAF>

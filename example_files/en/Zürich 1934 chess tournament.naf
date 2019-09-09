@@ -1,0 +1,587 @@
+<?xml version='1.0' encoding='utf-8'?>
+<NAF xml:lang="en" version="v3.naf">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Zürich 1934 chess tournament"/>
+    <public uri="https://en.wikipedia.org/wiki/Z%C3%BCrich_1934_chess_tournament"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2019-09-06T13:29:59UTC" endTimestamp="2019-09-06T13:29:59UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2019-09-06T13:29:59UTC" endTimestamp="2019-09-06T13:29:59UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2019-09-06T13:29:59UTC" endTimestamp="2019-09-06T13:29:59UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw>++Zürich 1934 chess tournament++.
+Zürich 1934 was an international chess tournament held in Zürich from 14 to 29 July 1934 to commemorate the 125th anniversary of Schachgesellschaft Zürich (the Zürich Chess Society). Alexander Alekhine won, followed by Max Euwe and Salo Flohr tied for second-third. The tournament also served as the 1934 Swiss Championship, won by Hans Johner as the highest-ranking Swiss player.</raw>
+  <text>
+    <wf sent="1" id="w0" length="1" offset="0">+</wf>
+    <wf sent="1" id="w1" length="1" offset="1">+</wf>
+    <wf sent="1" id="w2" length="6" offset="2">Zürich</wf>
+    <wf sent="1" id="w3" length="4" offset="9">1934</wf>
+    <wf sent="1" id="w4" length="5" offset="14">chess</wf>
+    <wf sent="1" id="w5" length="12" offset="20">tournament++</wf>
+    <wf sent="1" id="w6" length="1" offset="32">.</wf>
+    <wf sent="1" id="w7" length="1" offset="33">
+</wf>
+    <wf sent="2" id="w8" length="6" offset="34">Zürich</wf>
+    <wf sent="2" id="w9" length="4" offset="41">1934</wf>
+    <wf sent="2" id="w10" length="3" offset="46">was</wf>
+    <wf sent="2" id="w11" length="2" offset="50">an</wf>
+    <wf sent="2" id="w12" length="13" offset="53">international</wf>
+    <wf sent="2" id="w13" length="5" offset="67">chess</wf>
+    <wf sent="2" id="w14" length="10" offset="73">tournament</wf>
+    <wf sent="2" id="w15" length="4" offset="84">held</wf>
+    <wf sent="2" id="w16" length="2" offset="89">in</wf>
+    <wf sent="2" id="w17" length="6" offset="92">Zürich</wf>
+    <wf sent="2" id="w18" length="4" offset="99">from</wf>
+    <wf sent="2" id="w19" length="2" offset="104">14</wf>
+    <wf sent="2" id="w20" length="2" offset="107">to</wf>
+    <wf sent="2" id="w21" length="2" offset="110">29</wf>
+    <wf sent="2" id="w22" length="4" offset="113">July</wf>
+    <wf sent="2" id="w23" length="4" offset="118">1934</wf>
+    <wf sent="2" id="w24" length="2" offset="123">to</wf>
+    <wf sent="2" id="w25" length="11" offset="126">commemorate</wf>
+    <wf sent="2" id="w26" length="3" offset="138">the</wf>
+    <wf sent="2" id="w27" length="5" offset="142">125th</wf>
+    <wf sent="2" id="w28" length="11" offset="148">anniversary</wf>
+    <wf sent="2" id="w29" length="2" offset="160">of</wf>
+    <wf sent="2" id="w30" length="18" offset="163">Schachgesellschaft</wf>
+    <wf sent="2" id="w31" length="6" offset="182">Zürich</wf>
+    <wf sent="2" id="w32" length="1" offset="189">(</wf>
+    <wf sent="2" id="w33" length="3" offset="190">the</wf>
+    <wf sent="2" id="w34" length="6" offset="194">Zürich</wf>
+    <wf sent="2" id="w35" length="5" offset="201">Chess</wf>
+    <wf sent="2" id="w36" length="7" offset="207">Society</wf>
+    <wf sent="2" id="w37" length="1" offset="214">)</wf>
+    <wf sent="2" id="w38" length="1" offset="215">.</wf>
+    <wf sent="3" id="w39" length="9" offset="217">Alexander</wf>
+    <wf sent="3" id="w40" length="8" offset="227">Alekhine</wf>
+    <wf sent="3" id="w41" length="3" offset="236">won</wf>
+    <wf sent="3" id="w42" length="1" offset="239">,</wf>
+    <wf sent="3" id="w43" length="8" offset="241">followed</wf>
+    <wf sent="3" id="w44" length="2" offset="250">by</wf>
+    <wf sent="3" id="w45" length="3" offset="253">Max</wf>
+    <wf sent="3" id="w46" length="4" offset="257">Euwe</wf>
+    <wf sent="3" id="w47" length="3" offset="262">and</wf>
+    <wf sent="3" id="w48" length="4" offset="266">Salo</wf>
+    <wf sent="3" id="w49" length="5" offset="271">Flohr</wf>
+    <wf sent="3" id="w50" length="4" offset="277">tied</wf>
+    <wf sent="3" id="w51" length="3" offset="282">for</wf>
+    <wf sent="3" id="w52" length="6" offset="286">second</wf>
+    <wf sent="3" id="w53" length="1" offset="292">-</wf>
+    <wf sent="3" id="w54" length="5" offset="293">third</wf>
+    <wf sent="3" id="w55" length="1" offset="298">.</wf>
+    <wf sent="4" id="w56" length="3" offset="300">The</wf>
+    <wf sent="4" id="w57" length="10" offset="304">tournament</wf>
+    <wf sent="4" id="w58" length="4" offset="315">also</wf>
+    <wf sent="4" id="w59" length="6" offset="320">served</wf>
+    <wf sent="4" id="w60" length="2" offset="327">as</wf>
+    <wf sent="4" id="w61" length="3" offset="330">the</wf>
+    <wf sent="4" id="w62" length="4" offset="334">1934</wf>
+    <wf sent="4" id="w63" length="5" offset="339">Swiss</wf>
+    <wf sent="4" id="w64" length="12" offset="345">Championship</wf>
+    <wf sent="4" id="w65" length="1" offset="357">,</wf>
+    <wf sent="4" id="w66" length="3" offset="359">won</wf>
+    <wf sent="4" id="w67" length="2" offset="363">by</wf>
+    <wf sent="4" id="w68" length="4" offset="366">Hans</wf>
+    <wf sent="4" id="w69" length="6" offset="371">Johner</wf>
+    <wf sent="4" id="w70" length="2" offset="378">as</wf>
+    <wf sent="4" id="w71" length="3" offset="381">the</wf>
+    <wf sent="4" id="w72" length="7" offset="385">highest</wf>
+    <wf sent="4" id="w73" length="1" offset="392">-</wf>
+    <wf sent="4" id="w74" length="7" offset="393">ranking</wf>
+    <wf sent="4" id="w75" length="5" offset="401">Swiss</wf>
+    <wf sent="4" id="w76" length="6" offset="407">player</wf>
+    <wf sent="4" id="w77" length="1" offset="413">.</wf>
+  </text>
+  <terms>
+    <term id="t0" lemma="+" pos="X" morphofeat="XX">
+      <span>
+        <target id="w0"/>
+      </span>
+    </term>
+    <term id="t1" lemma="+" pos="CCONJ" morphofeat="CC">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="Zürich" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="1934" pos="NUM" morphofeat="CD">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="chess" pos="NOUN" morphofeat="NN">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="tournament++" pos="NOUN" morphofeat="NN">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" morphofeat=".">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" morphofeat="_SP">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="Zürich" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="1934" pos="NUM" morphofeat="CD">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="be" pos="VERB" morphofeat="VBD">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="an" pos="DET" morphofeat="DT">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="international" pos="ADJ" morphofeat="JJ">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="chess" pos="NOUN" morphofeat="NN">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="tournament" pos="NOUN" morphofeat="NN">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="hold" pos="VERB" morphofeat="VBN">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="in" pos="ADP" morphofeat="IN">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="Zürich" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="from" pos="ADP" morphofeat="IN">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="14" pos="NUM" morphofeat="CD">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="to" pos="PART" morphofeat="TO">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="29" pos="NUM" morphofeat="CD">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="July" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="1934" pos="NUM" morphofeat="CD">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="to" pos="PART" morphofeat="TO">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="commemorate" pos="VERB" morphofeat="VB">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="the" pos="DET" morphofeat="DT">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="125th" pos="ADJ" morphofeat="JJ">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="anniversary" pos="NOUN" morphofeat="NN">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="of" pos="ADP" morphofeat="IN">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="Schachgesellschaft" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="Zürich" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="(" pos="PUNCT" morphofeat="-LRB-">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="the" pos="DET" morphofeat="DT">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="Zürich" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="Chess" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="Society" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma=")" pos="PUNCT" morphofeat="-RRB-">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="." pos="PUNCT" morphofeat=".">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="Alexander" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="Alekhine" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="win" pos="VERB" morphofeat="VBD">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="," pos="PUNCT" morphofeat=",">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="follow" pos="VERB" morphofeat="VBN">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="by" pos="ADP" morphofeat="IN">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="Max" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="Euwe" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="and" pos="CCONJ" morphofeat="CC">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="Salo" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="Flohr" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="tie" pos="VERB" morphofeat="VBD">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="for" pos="ADP" morphofeat="IN">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="second" pos="ADJ" morphofeat="JJ">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="-" pos="PUNCT" morphofeat="HYPH">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="third" pos="NOUN" morphofeat="NN">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="." pos="PUNCT" morphofeat=".">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="the" pos="DET" morphofeat="DT">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="tournament" pos="NOUN" morphofeat="NN">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="also" pos="ADV" morphofeat="RB">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="serve" pos="VERB" morphofeat="VBD">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="as" pos="ADP" morphofeat="IN">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="the" pos="DET" morphofeat="DT">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="1934" pos="NUM" morphofeat="CD">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="Swiss" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="Championship" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+    <term id="t65" lemma="," pos="PUNCT" morphofeat=",">
+      <span>
+        <target id="w65"/>
+      </span>
+    </term>
+    <term id="t66" lemma="win" pos="VERB" morphofeat="VBN">
+      <span>
+        <target id="w66"/>
+      </span>
+    </term>
+    <term id="t67" lemma="by" pos="ADP" morphofeat="IN">
+      <span>
+        <target id="w67"/>
+      </span>
+    </term>
+    <term id="t68" lemma="Hans" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w68"/>
+      </span>
+    </term>
+    <term id="t69" lemma="Johner" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w69"/>
+      </span>
+    </term>
+    <term id="t70" lemma="as" pos="ADP" morphofeat="IN">
+      <span>
+        <target id="w70"/>
+      </span>
+    </term>
+    <term id="t71" lemma="the" pos="DET" morphofeat="DT">
+      <span>
+        <target id="w71"/>
+      </span>
+    </term>
+    <term id="t72" lemma="highest" pos="ADV" morphofeat="RBS">
+      <span>
+        <target id="w72"/>
+      </span>
+    </term>
+    <term id="t73" lemma="-" pos="PUNCT" morphofeat="HYPH">
+      <span>
+        <target id="w73"/>
+      </span>
+    </term>
+    <term id="t74" lemma="rank" pos="VERB" morphofeat="VBG">
+      <span>
+        <target id="w74"/>
+      </span>
+    </term>
+    <term id="t75" lemma="swiss" pos="ADJ" morphofeat="JJ">
+      <span>
+        <target id="w75"/>
+      </span>
+    </term>
+    <term id="t76" lemma="player" pos="NOUN" morphofeat="NN">
+      <span>
+        <target id="w76"/>
+      </span>
+    </term>
+    <term id="t77" lemma="." pos="PUNCT" morphofeat=".">
+      <span>
+        <target id="w77"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="e1" type="UNK">
+      <references>
+        <span>
+          <!--c h e s s-->
+          <target id="t13"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Chess"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <references>
+        <span>
+          <!--Z ü r i c h-->
+          <target id="t17"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Zürich"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <references>
+        <span>
+          <!--S c h a c h g e s e l l s c h a f t   Z ü r i c h-->
+          <target id="t30"/>
+          <target id="t31"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Schachgesellschaft_Zürich"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <references>
+        <span>
+          <!--A l e x a n d e r   A l e k h i n e-->
+          <target id="t39"/>
+          <target id="t40"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Alexander_Alekhine"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <references>
+        <span>
+          <!--M a x   E u w e-->
+          <target id="t45"/>
+          <target id="t46"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Max_Euwe"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <references>
+        <span>
+          <!--S a l o   F l o h r-->
+          <target id="t48"/>
+          <target id="t49"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Salo_Flohr"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <references>
+        <span>
+          <!--S w i s s   C h a m p i o n s h i p-->
+          <target id="t63"/>
+          <target id="t64"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Swiss_Chess_Championship"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <references>
+        <span>
+          <!--H a n s   J o h n e r-->
+          <target id="t68"/>
+          <target id="t69"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Hans_Johner"/>
+      </externalReferences>
+    </entity>
+  </entities>
+</NAF>

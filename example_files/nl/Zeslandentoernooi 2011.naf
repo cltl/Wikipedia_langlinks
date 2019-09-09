@@ -1,0 +1,572 @@
+<?xml version='1.0' encoding='utf-8'?>
+<NAF xml:lang="nl" version="v3.naf">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Zeslandentoernooi 2011"/>
+    <public uri="https://nl.wikipedia.org/wiki/Zeslandentoernooi_2011"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2019-09-06T13:17:05UTC" endTimestamp="2019-09-06T13:17:05UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2019-09-06T13:17:05UTC" endTimestamp="2019-09-06T13:17:05UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2019-09-06T13:17:05UTC" endTimestamp="2019-09-06T13:17:05UTC" name="spaCy-model_nl_core_news_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw>++Zeslandentoernooi 2011++.
+De wedstrijd Wales - Engeland voor het zeslandentoernooi 2010.
+De twaalfde editie van het Zeslandentoernooi van de Rugby Union werd gespeeld van 4 februari tot en met en 19 maart 2011 tussen de nationale rugbyteams van Engeland, Frankrijk, Ierland, Italië, Schotland en Wales. Het toernooi werd sinds 2003 weer gewonnen door Engeland</raw>
+  <text>
+    <wf sent="1" id="w0" length="1" offset="0">+</wf>
+    <wf sent="1" id="w1" length="1" offset="1">+</wf>
+    <wf sent="1" id="w2" length="17" offset="2">Zeslandentoernooi</wf>
+    <wf sent="1" id="w3" length="6" offset="20">2011++</wf>
+    <wf sent="1" id="w4" length="1" offset="26">.</wf>
+    <wf sent="1" id="w5" length="1" offset="27">
+</wf>
+    <wf sent="2" id="w6" length="2" offset="28">De</wf>
+    <wf sent="2" id="w7" length="9" offset="31">wedstrijd</wf>
+    <wf sent="2" id="w8" length="5" offset="41">Wales</wf>
+    <wf sent="2" id="w9" length="1" offset="47">-</wf>
+    <wf sent="2" id="w10" length="8" offset="49">Engeland</wf>
+    <wf sent="2" id="w11" length="4" offset="58">voor</wf>
+    <wf sent="2" id="w12" length="3" offset="63">het</wf>
+    <wf sent="2" id="w13" length="17" offset="67">zeslandentoernooi</wf>
+    <wf sent="2" id="w14" length="4" offset="85">2010</wf>
+    <wf sent="2" id="w15" length="1" offset="89">.</wf>
+    <wf sent="2" id="w16" length="1" offset="90">
+</wf>
+    <wf sent="3" id="w17" length="2" offset="91">De</wf>
+    <wf sent="3" id="w18" length="8" offset="94">twaalfde</wf>
+    <wf sent="3" id="w19" length="6" offset="103">editie</wf>
+    <wf sent="3" id="w20" length="3" offset="110">van</wf>
+    <wf sent="3" id="w21" length="3" offset="114">het</wf>
+    <wf sent="3" id="w22" length="17" offset="118">Zeslandentoernooi</wf>
+    <wf sent="3" id="w23" length="3" offset="136">van</wf>
+    <wf sent="3" id="w24" length="2" offset="140">de</wf>
+    <wf sent="3" id="w25" length="5" offset="143">Rugby</wf>
+    <wf sent="3" id="w26" length="5" offset="149">Union</wf>
+    <wf sent="3" id="w27" length="4" offset="155">werd</wf>
+    <wf sent="3" id="w28" length="8" offset="160">gespeeld</wf>
+    <wf sent="3" id="w29" length="3" offset="169">van</wf>
+    <wf sent="3" id="w30" length="1" offset="173">4</wf>
+    <wf sent="3" id="w31" length="8" offset="175">februari</wf>
+    <wf sent="3" id="w32" length="3" offset="184">tot</wf>
+    <wf sent="3" id="w33" length="2" offset="188">en</wf>
+    <wf sent="3" id="w34" length="3" offset="191">met</wf>
+    <wf sent="3" id="w35" length="2" offset="195">en</wf>
+    <wf sent="3" id="w36" length="2" offset="198">19</wf>
+    <wf sent="3" id="w37" length="5" offset="201">maart</wf>
+    <wf sent="3" id="w38" length="4" offset="207">2011</wf>
+    <wf sent="3" id="w39" length="6" offset="212">tussen</wf>
+    <wf sent="3" id="w40" length="2" offset="219">de</wf>
+    <wf sent="3" id="w41" length="9" offset="222">nationale</wf>
+    <wf sent="3" id="w42" length="10" offset="232">rugbyteams</wf>
+    <wf sent="3" id="w43" length="3" offset="243">van</wf>
+    <wf sent="3" id="w44" length="8" offset="247">Engeland</wf>
+    <wf sent="3" id="w45" length="1" offset="255">,</wf>
+    <wf sent="3" id="w46" length="9" offset="257">Frankrijk</wf>
+    <wf sent="3" id="w47" length="1" offset="266">,</wf>
+    <wf sent="3" id="w48" length="7" offset="268">Ierland</wf>
+    <wf sent="3" id="w49" length="1" offset="275">,</wf>
+    <wf sent="3" id="w50" length="6" offset="277">Italië</wf>
+    <wf sent="3" id="w51" length="1" offset="283">,</wf>
+    <wf sent="3" id="w52" length="9" offset="285">Schotland</wf>
+    <wf sent="3" id="w53" length="2" offset="295">en</wf>
+    <wf sent="3" id="w54" length="5" offset="298">Wales</wf>
+    <wf sent="3" id="w55" length="1" offset="303">.</wf>
+    <wf sent="4" id="w56" length="3" offset="305">Het</wf>
+    <wf sent="4" id="w57" length="8" offset="309">toernooi</wf>
+    <wf sent="4" id="w58" length="4" offset="318">werd</wf>
+    <wf sent="4" id="w59" length="5" offset="323">sinds</wf>
+    <wf sent="4" id="w60" length="4" offset="329">2003</wf>
+    <wf sent="4" id="w61" length="4" offset="334">weer</wf>
+    <wf sent="4" id="w62" length="8" offset="339">gewonnen</wf>
+    <wf sent="4" id="w63" length="4" offset="348">door</wf>
+    <wf sent="4" id="w64" length="8" offset="353">Engeland</wf>
+  </text>
+  <terms>
+    <term id="t0" lemma="+" pos="ADJ" morphofeat="Adj|attr|stell|onverv__Degree=Pos">
+      <span>
+        <target id="w0"/>
+      </span>
+    </term>
+    <term id="t1" lemma="+" pos="ADJ" morphofeat="Adj|attr|stell|onverv__Degree=Pos">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="zeslandentoernooi" pos="NOUN" morphofeat="N|eigen|ev|neut__Number=Sing">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="2011++" pos="NUM" morphofeat="Num|hoofd|bep|attr|onverv__Definite=Def|NumType=Card">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="." pos="PUNCT" morphofeat="Punc|punt__PunctType=Peri">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="&#10;" pos="SPACE" morphofeat="_SP">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="de" pos="DET" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="wedstrijd" pos="NOUN" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="wale" pos="NOUN" morphofeat="N|eigen|ev|neut__Number=Sing">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="-" pos="PUNCT" morphofeat="Punc|liggstreep___">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="engeland" pos="NOUN" morphofeat="N|eigen|ev|neut__Number=Sing">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="voor" pos="ADP" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="het" pos="DET" morphofeat="Art|bep|onzijd|neut__Definite=Def|Gender=Neut|PronType=Art">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="zeslandentoernooi" pos="NOUN" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="2010" pos="NUM" morphofeat="Num|hoofd|bep|attr|onverv__Definite=Def|NumType=Card">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="." pos="PUNCT" morphofeat="Punc|punt__PunctType=Peri">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="&#10;" pos="SPACE" morphofeat="_SP">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="de" pos="DET" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="twaalf" pos="NUM" morphofeat="Num|rang|bep|attr|onverv__Definite=Def|NumType=Ord">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="editie" pos="NOUN" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="van" pos="ADP" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="het" pos="DET" morphofeat="Art|bep|onzijd|neut__Definite=Def|Gender=Neut|PronType=Art">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="zeslandentoernooi" pos="NOUN" morphofeat="N|eigen|ev|neut__Number=Sing">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="van" pos="ADP" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="de" pos="DET" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="rugby" pos="NOUN" morphofeat="N_N|eigen|ev|neut_eigen|ev|neut___">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="union" pos="PROPN" morphofeat="PROPN___">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="worden" pos="VERB" morphofeat="V|hulpofkopp|ovt|1of2of3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="spelen" pos="VERB" morphofeat="V|trans|verldw|onverv__Subcat=Tran|Tense=Past|VerbForm=Part">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="van" pos="ADP" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="4" pos="NUM" morphofeat="Num_N__NumForm=Digit|NumType=Card">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="februari" pos="NUM" morphofeat="NUM__Definite=Def|Number=Sing|NumType=Card">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="tot" pos="ADP" morphofeat="Prep_Conj_Prep|voor_neven_voor__Gender=Masc|Number=Sing|PronType=Tot">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="en" pos="ADP" morphofeat="ADP__AdpType=Prep">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="met" pos="X" morphofeat="X___">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="en" pos="CONJ" morphofeat="Conj|neven___">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="19" pos="NUM" morphofeat="Num_N_Num__NumForm=Digit|NumType=Card">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="maart" pos="NUM" morphofeat="NUM__Definite=Def|Number=Sing|NumType=Card">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="2011" pos="NUM" morphofeat="NUM__NumForm=Digit|NumType=Card">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+    <term id="t39" lemma="tussen" pos="ADP" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w39"/>
+      </span>
+    </term>
+    <term id="t40" lemma="de" pos="DET" morphofeat="Art|bep|zijdofmv|neut__Definite=Def|PronType=Art">
+      <span>
+        <target id="w40"/>
+      </span>
+    </term>
+    <term id="t41" lemma="nationaal" pos="ADJ" morphofeat="Adj|attr|stell|vervneut__Case=Nom|Degree=Pos">
+      <span>
+        <target id="w41"/>
+      </span>
+    </term>
+    <term id="t42" lemma="rugbyteam" pos="NOUN" morphofeat="N|soort|mv|neut__Number=Plur">
+      <span>
+        <target id="w42"/>
+      </span>
+    </term>
+    <term id="t43" lemma="van" pos="ADP" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w43"/>
+      </span>
+    </term>
+    <term id="t44" lemma="engeland" pos="NOUN" morphofeat="N|eigen|ev|neut__Number=Sing">
+      <span>
+        <target id="w44"/>
+      </span>
+    </term>
+    <term id="t45" lemma="," pos="PUNCT" morphofeat="Punc|komma__PunctType=Comm">
+      <span>
+        <target id="w45"/>
+      </span>
+    </term>
+    <term id="t46" lemma="frankrijk" pos="NOUN" morphofeat="N|eigen|ev|neut__Number=Sing">
+      <span>
+        <target id="w46"/>
+      </span>
+    </term>
+    <term id="t47" lemma="," pos="PUNCT" morphofeat="Punc|komma__PunctType=Comm">
+      <span>
+        <target id="w47"/>
+      </span>
+    </term>
+    <term id="t48" lemma="ierland" pos="NOUN" morphofeat="N|eigen|ev|neut__Number=Sing">
+      <span>
+        <target id="w48"/>
+      </span>
+    </term>
+    <term id="t49" lemma="," pos="PUNCT" morphofeat="Punc|komma__PunctType=Comm">
+      <span>
+        <target id="w49"/>
+      </span>
+    </term>
+    <term id="t50" lemma="italië" pos="NOUN" morphofeat="N|eigen|ev|neut__Number=Sing">
+      <span>
+        <target id="w50"/>
+      </span>
+    </term>
+    <term id="t51" lemma="," pos="PUNCT" morphofeat="Punc|komma__PunctType=Comm">
+      <span>
+        <target id="w51"/>
+      </span>
+    </term>
+    <term id="t52" lemma="schotland" pos="NOUN" morphofeat="N|eigen|ev|neut__Number=Sing">
+      <span>
+        <target id="w52"/>
+      </span>
+    </term>
+    <term id="t53" lemma="en" pos="CONJ" morphofeat="Conj|neven___">
+      <span>
+        <target id="w53"/>
+      </span>
+    </term>
+    <term id="t54" lemma="wale" pos="NOUN" morphofeat="N|eigen|ev|neut__Number=Sing">
+      <span>
+        <target id="w54"/>
+      </span>
+    </term>
+    <term id="t55" lemma="." pos="PUNCT" morphofeat="Punc|punt__PunctType=Peri">
+      <span>
+        <target id="w55"/>
+      </span>
+    </term>
+    <term id="t56" lemma="het" pos="DET" morphofeat="Art|bep|onzijd|neut__Definite=Def|Gender=Neut|PronType=Art">
+      <span>
+        <target id="w56"/>
+      </span>
+    </term>
+    <term id="t57" lemma="toernooi" pos="NOUN" morphofeat="N|soort|ev|neut__Number=Sing">
+      <span>
+        <target id="w57"/>
+      </span>
+    </term>
+    <term id="t58" lemma="worden" pos="VERB" morphofeat="V|hulpofkopp|ovt|1of2of3|ev__Aspect=Imp|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin">
+      <span>
+        <target id="w58"/>
+      </span>
+    </term>
+    <term id="t59" lemma="sinds" pos="ADP" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w59"/>
+      </span>
+    </term>
+    <term id="t60" lemma="2003" pos="NUM" morphofeat="Num|hoofd|bep|zelfst|onverv__Definite=Def|NumType=Card">
+      <span>
+        <target id="w60"/>
+      </span>
+    </term>
+    <term id="t61" lemma="weer" pos="ADV" morphofeat="Adv|gew|geenfunc|stell|onverv__Degree=Pos">
+      <span>
+        <target id="w61"/>
+      </span>
+    </term>
+    <term id="t62" lemma="winnen" pos="VERB" morphofeat="V|trans|verldw|onverv__Subcat=Tran|Tense=Past|VerbForm=Part">
+      <span>
+        <target id="w62"/>
+      </span>
+    </term>
+    <term id="t63" lemma="door" pos="ADP" morphofeat="Prep|voor__AdpType=Prep">
+      <span>
+        <target id="w63"/>
+      </span>
+    </term>
+    <term id="t64" lemma="engeland" pos="NOUN" morphofeat="N|eigen|ev|neut__Number=Sing">
+      <span>
+        <target id="w64"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="e1" type="UNK">
+      <references>
+        <span>
+          <!--D e   w e d s t r i j d   W a l e s   -   E n g e l a n d   v o o r   h e t   z e s l a n d e n t o e r n o o i   2 0 1 0 .-->
+          <target id="t6"/>
+          <target id="t7"/>
+          <target id="t8"/>
+          <target id="t9"/>
+          <target id="t10"/>
+          <target id="t11"/>
+          <target id="t12"/>
+          <target id="t13"/>
+          <target id="t14"/>
+          <target id="t15"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Thumb"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <references>
+        <span>
+          <!--Z e s l a n d e n t o e r n o o i-->
+          <target id="t22"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Zeslandentoernooi"/>
+      </externalReferences>
+    </entity>
+    <entity id="e3" type="UNK">
+      <references>
+        <span>
+          <!--R u g b y   U n i o n-->
+          <target id="t25"/>
+          <target id="t26"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Rugby_Union"/>
+      </externalReferences>
+    </entity>
+    <entity id="e4" type="UNK">
+      <references>
+        <span>
+          <!--4   f e b r u a r i-->
+          <target id="t30"/>
+          <target id="t31"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/4_februari"/>
+      </externalReferences>
+    </entity>
+    <entity id="e5" type="UNK">
+      <references>
+        <span>
+          <!--1 9   m a a r t-->
+          <target id="t36"/>
+          <target id="t37"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/19_maart"/>
+      </externalReferences>
+    </entity>
+    <entity id="e6" type="UNK">
+      <references>
+        <span>
+          <!--2 0 1 1-->
+          <target id="t38"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/2011"/>
+      </externalReferences>
+    </entity>
+    <entity id="e7" type="UNK">
+      <references>
+        <span>
+          <!--E n g e l a n d-->
+          <target id="t44"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Engels_rugbyteam"/>
+      </externalReferences>
+    </entity>
+    <entity id="e8" type="UNK">
+      <references>
+        <span>
+          <!--F r a n k r i j k-->
+          <target id="t46"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Frans_rugbyteam"/>
+      </externalReferences>
+    </entity>
+    <entity id="e9" type="UNK">
+      <references>
+        <span>
+          <!--I e r l a n d-->
+          <target id="t48"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Iers_rugbyteam"/>
+      </externalReferences>
+    </entity>
+    <entity id="e10" type="UNK">
+      <references>
+        <span>
+          <!--I t a l i ë-->
+          <target id="t50"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Italiaans_rugbyteam"/>
+      </externalReferences>
+    </entity>
+    <entity id="e11" type="UNK">
+      <references>
+        <span>
+          <!--S c h o t l a n d-->
+          <target id="t52"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Schots_rugbyteam"/>
+      </externalReferences>
+    </entity>
+    <entity id="e12" type="UNK">
+      <references>
+        <span>
+          <!--W a l e s-->
+          <target id="t54"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Welsh_rugbyteam"/>
+      </externalReferences>
+    </entity>
+    <entity id="e13" type="UNK">
+      <references>
+        <span>
+          <!--E n g e l a n d-->
+          <target id="t64"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://nl.wikipedia.org/wiki/Engels_rugbyteam"/>
+      </externalReferences>
+    </entity>
+  </entities>
+</NAF>

@@ -28,3 +28,8 @@ Call (edit for other languages)
 ```bash
 bash extract.sh
 ```
+
+### inspect coverage
+
+Call ```
+python inspect_coverage.py -h```

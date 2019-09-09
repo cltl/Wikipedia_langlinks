@@ -1,0 +1,281 @@
+<?xml version='1.0' encoding='utf-8'?>
+<NAF xml:lang="en" version="v3.naf">
+  <nafHeader>
+    <fileDesc creationtime="2019-07-20T00:00:00UTC" title="Zion Square refrigerator bombing"/>
+    <public uri="https://en.wikipedia.org/wiki/Zion_Square_refrigerator_bombing"/>
+    <linguisticProcessors layer="text">
+      <lp beginTimestamp="2019-09-06T15:42:04UTC" endTimestamp="2019-09-06T15:42:04UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="raw">
+      <lp beginTimestamp="2019-09-06T15:42:04UTC" endTimestamp="2019-09-06T15:42:04UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="terms">
+      <lp beginTimestamp="2019-09-06T15:42:04UTC" endTimestamp="2019-09-06T15:42:04UTC" name="spaCy-model_en_core_web_sm" version="spaCy_version-2.1.4__model_version-2.1.0"/>
+    </linguisticProcessors>
+  </nafHeader>
+  <raw>++Zion Square refrigerator bombing++.
+The Zion Square refrigerator bombing was a terrorist attack in downtown Jerusalem, Israel on Friday, July 4, 1975 in which 15 civilians were killed and 77 wounded.</raw>
+  <text>
+    <wf sent="1" id="w0" length="1" offset="0">+</wf>
+    <wf sent="1" id="w1" length="1" offset="1">+</wf>
+    <wf sent="1" id="w2" length="4" offset="2">Zion</wf>
+    <wf sent="1" id="w3" length="6" offset="7">Square</wf>
+    <wf sent="1" id="w4" length="12" offset="14">refrigerator</wf>
+    <wf sent="1" id="w5" length="9" offset="27">bombing++</wf>
+    <wf sent="1" id="w6" length="1" offset="36">.</wf>
+    <wf sent="1" id="w7" length="1" offset="37">
+</wf>
+    <wf sent="2" id="w8" length="3" offset="38">The</wf>
+    <wf sent="2" id="w9" length="4" offset="42">Zion</wf>
+    <wf sent="2" id="w10" length="6" offset="47">Square</wf>
+    <wf sent="2" id="w11" length="12" offset="54">refrigerator</wf>
+    <wf sent="2" id="w12" length="7" offset="67">bombing</wf>
+    <wf sent="2" id="w13" length="3" offset="75">was</wf>
+    <wf sent="2" id="w14" length="1" offset="79">a</wf>
+    <wf sent="2" id="w15" length="9" offset="81">terrorist</wf>
+    <wf sent="2" id="w16" length="6" offset="91">attack</wf>
+    <wf sent="2" id="w17" length="2" offset="98">in</wf>
+    <wf sent="2" id="w18" length="8" offset="101">downtown</wf>
+    <wf sent="2" id="w19" length="9" offset="110">Jerusalem</wf>
+    <wf sent="2" id="w20" length="1" offset="119">,</wf>
+    <wf sent="2" id="w21" length="6" offset="121">Israel</wf>
+    <wf sent="2" id="w22" length="2" offset="128">on</wf>
+    <wf sent="2" id="w23" length="6" offset="131">Friday</wf>
+    <wf sent="2" id="w24" length="1" offset="137">,</wf>
+    <wf sent="2" id="w25" length="4" offset="139">July</wf>
+    <wf sent="2" id="w26" length="1" offset="144">4</wf>
+    <wf sent="2" id="w27" length="1" offset="145">,</wf>
+    <wf sent="2" id="w28" length="4" offset="147">1975</wf>
+    <wf sent="2" id="w29" length="2" offset="152">in</wf>
+    <wf sent="2" id="w30" length="5" offset="155">which</wf>
+    <wf sent="2" id="w31" length="2" offset="161">15</wf>
+    <wf sent="2" id="w32" length="9" offset="164">civilians</wf>
+    <wf sent="2" id="w33" length="4" offset="174">were</wf>
+    <wf sent="2" id="w34" length="6" offset="179">killed</wf>
+    <wf sent="2" id="w35" length="3" offset="186">and</wf>
+    <wf sent="2" id="w36" length="2" offset="190">77</wf>
+    <wf sent="2" id="w37" length="7" offset="193">wounded</wf>
+    <wf sent="2" id="w38" length="1" offset="200">.</wf>
+  </text>
+  <terms>
+    <term id="t0" lemma="+" pos="X" morphofeat="XX">
+      <span>
+        <target id="w0"/>
+      </span>
+    </term>
+    <term id="t1" lemma="+" pos="CCONJ" morphofeat="CC">
+      <span>
+        <target id="w1"/>
+      </span>
+    </term>
+    <term id="t2" lemma="Zion" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w2"/>
+      </span>
+    </term>
+    <term id="t3" lemma="Square" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w3"/>
+      </span>
+    </term>
+    <term id="t4" lemma="refrigerator" pos="NOUN" morphofeat="NN">
+      <span>
+        <target id="w4"/>
+      </span>
+    </term>
+    <term id="t5" lemma="bombing++" pos="NOUN" morphofeat="NN">
+      <span>
+        <target id="w5"/>
+      </span>
+    </term>
+    <term id="t6" lemma="." pos="PUNCT" morphofeat=".">
+      <span>
+        <target id="w6"/>
+      </span>
+    </term>
+    <term id="t7" lemma="&#10;" pos="SPACE" morphofeat="_SP">
+      <span>
+        <target id="w7"/>
+      </span>
+    </term>
+    <term id="t8" lemma="the" pos="DET" morphofeat="DT">
+      <span>
+        <target id="w8"/>
+      </span>
+    </term>
+    <term id="t9" lemma="Zion" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w9"/>
+      </span>
+    </term>
+    <term id="t10" lemma="Square" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w10"/>
+      </span>
+    </term>
+    <term id="t11" lemma="refrigerator" pos="NOUN" morphofeat="NN">
+      <span>
+        <target id="w11"/>
+      </span>
+    </term>
+    <term id="t12" lemma="bombing" pos="NOUN" morphofeat="NN">
+      <span>
+        <target id="w12"/>
+      </span>
+    </term>
+    <term id="t13" lemma="be" pos="VERB" morphofeat="VBD">
+      <span>
+        <target id="w13"/>
+      </span>
+    </term>
+    <term id="t14" lemma="a" pos="DET" morphofeat="DT">
+      <span>
+        <target id="w14"/>
+      </span>
+    </term>
+    <term id="t15" lemma="terrorist" pos="ADJ" morphofeat="JJ">
+      <span>
+        <target id="w15"/>
+      </span>
+    </term>
+    <term id="t16" lemma="attack" pos="NOUN" morphofeat="NN">
+      <span>
+        <target id="w16"/>
+      </span>
+    </term>
+    <term id="t17" lemma="in" pos="ADP" morphofeat="IN">
+      <span>
+        <target id="w17"/>
+      </span>
+    </term>
+    <term id="t18" lemma="downtown" pos="NOUN" morphofeat="NN">
+      <span>
+        <target id="w18"/>
+      </span>
+    </term>
+    <term id="t19" lemma="Jerusalem" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w19"/>
+      </span>
+    </term>
+    <term id="t20" lemma="," pos="PUNCT" morphofeat=",">
+      <span>
+        <target id="w20"/>
+      </span>
+    </term>
+    <term id="t21" lemma="Israel" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w21"/>
+      </span>
+    </term>
+    <term id="t22" lemma="on" pos="ADP" morphofeat="IN">
+      <span>
+        <target id="w22"/>
+      </span>
+    </term>
+    <term id="t23" lemma="Friday" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w23"/>
+      </span>
+    </term>
+    <term id="t24" lemma="," pos="PUNCT" morphofeat=",">
+      <span>
+        <target id="w24"/>
+      </span>
+    </term>
+    <term id="t25" lemma="July" pos="PROPN" morphofeat="NNP">
+      <span>
+        <target id="w25"/>
+      </span>
+    </term>
+    <term id="t26" lemma="4" pos="NUM" morphofeat="CD">
+      <span>
+        <target id="w26"/>
+      </span>
+    </term>
+    <term id="t27" lemma="," pos="PUNCT" morphofeat=",">
+      <span>
+        <target id="w27"/>
+      </span>
+    </term>
+    <term id="t28" lemma="1975" pos="NUM" morphofeat="CD">
+      <span>
+        <target id="w28"/>
+      </span>
+    </term>
+    <term id="t29" lemma="in" pos="ADP" morphofeat="IN">
+      <span>
+        <target id="w29"/>
+      </span>
+    </term>
+    <term id="t30" lemma="which" pos="DET" morphofeat="WDT">
+      <span>
+        <target id="w30"/>
+      </span>
+    </term>
+    <term id="t31" lemma="15" pos="NUM" morphofeat="CD">
+      <span>
+        <target id="w31"/>
+      </span>
+    </term>
+    <term id="t32" lemma="civilian" pos="NOUN" morphofeat="NNS">
+      <span>
+        <target id="w32"/>
+      </span>
+    </term>
+    <term id="t33" lemma="be" pos="VERB" morphofeat="VBD">
+      <span>
+        <target id="w33"/>
+      </span>
+    </term>
+    <term id="t34" lemma="kill" pos="VERB" morphofeat="VBN">
+      <span>
+        <target id="w34"/>
+      </span>
+    </term>
+    <term id="t35" lemma="and" pos="CCONJ" morphofeat="CC">
+      <span>
+        <target id="w35"/>
+      </span>
+    </term>
+    <term id="t36" lemma="77" pos="NUM" morphofeat="CD">
+      <span>
+        <target id="w36"/>
+      </span>
+    </term>
+    <term id="t37" lemma="wound" pos="VERB" morphofeat="VBN">
+      <span>
+        <target id="w37"/>
+      </span>
+    </term>
+    <term id="t38" lemma="." pos="PUNCT" morphofeat=".">
+      <span>
+        <target id="w38"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="e1" type="UNK">
+      <references>
+        <span>
+          <!--J e r u s a l e m-->
+          <target id="t19"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Jerusalem"/>
+      </externalReferences>
+    </entity>
+    <entity id="e2" type="UNK">
+      <references>
+        <span>
+          <!--I s r a e l-->
+          <target id="t21"/>
+        </span>
+      </references>
+      <externalReferences>
+        <externalRef reference="http://en.wikipedia.org/wiki/Israel"/>
+      </externalReferences>
+    </entity>
+  </entities>
+</NAF>
