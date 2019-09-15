@@ -13,4 +13,5 @@ wget https://dumps.wikimedia.org/nlwiki/20190720/nlwiki-20190720-langlinks.sql.g
 wget https://dumps.wikimedia.org/itwiki/20190720/itwiki-20190720-page.sql.gz
 wget https://dumps.wikimedia.org/itwiki/20190720/itwiki-20190720-langlinks.sql.gz
 
+cd ../..
 cp lib/*py resources/wikipedia-parallel-titles
